@@ -1,0 +1,16 @@
+{
+  "name": "rion-oracle-prediction-market-deploy",
+  "version": "1.0.0",
+  "description": "Deploy PredictionMarket contracts",
+  "private": true,
+  "scripts": {
+    "deploy": "hardhat run scripts/deploy-complete.js --network bscTestnet"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
