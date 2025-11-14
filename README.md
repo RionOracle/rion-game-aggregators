@@ -244,6 +244,22 @@ Example:
 
 ---
 
+## 📚 TypeScript SDK
+
+If you want to integrate these contracts from a JavaScript/TypeScript app, use the official Prediction Market SDK:
+
+👉 **npm:** https://www.npmjs.com/package/prediction-market-sdk
+
+```bash
+npm install prediction-market-sdk
+# or
+pnpm add prediction-market-sdk
+```
+
+The SDK provides type-safe wrappers for all contract interactions, making it easy to build frontends, bots, or backend services.
+
+---
+
 ## 🧩 Extending the Template
 
 ### Adding New Sport Types or Games
