@@ -1,5 +1,10 @@
 # RION Prediction Market Aggregator
 
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-blue)](https://soliditylang.org/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-2.19+-yellow)](https://hardhat.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 **A reusable, template-based on-chain prediction market platform for decentralized gaming and predictions.**
 
 This repository provides a reference implementation of a decentralized prediction market system built with Solidity and Hardhat. Developers can fork this template and adapt it for different games, sports, or prediction events. The architecture separates game outcome aggregation from market logic, enabling scalability and extensibility.
